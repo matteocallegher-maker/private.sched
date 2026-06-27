@@ -1,6 +1,6 @@
 {
   "name": "Scheda Matteo Callegher",
-  "short_name": "Callegher",
+  "short_name": "Gym workout",
   "description": "Scheda di allenamento personale con pesi aggiornabili",
   "start_url": "./index.html",
   "scope": "./",
